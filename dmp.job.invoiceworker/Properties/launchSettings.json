@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Job.InvoiceWorker": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Local"
+      }
+    }
+  }
+}

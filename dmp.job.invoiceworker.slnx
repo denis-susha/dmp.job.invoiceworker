@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".dockerignore" />
+    <File Path=".editorconfig" />
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
+    <File Path="Dockerfile" />
+    <File Path="global.json" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="DMP.BL/DMP.BL.csproj" />
+  <Project Path="DMP.DataAccess/DMP.DataAccess.csproj" />
+  <Project Path="dmp.job.invoiceworker/Job.InvoiceWorker.csproj" />
+</Solution>
